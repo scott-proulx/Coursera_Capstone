@@ -1,0 +1,209 @@
+,Venue Category,Combined Category
+0,Noodle House,Restaurants and Eateries
+1,Juice Bar,Restaurants and Eateries
+2,Hotel,Hospitality
+3,Bar,"Bars, Pubs and Clubs"
+4,Coffee Shop,Coffee and Cafes
+5,Bakery,Food and Groceries
+6,Men's Store,Shopping
+7,Food Truck,Restaurants and Eateries
+8,Plaza,Outdoor Venues
+9,Comfort Food Restaurant,Restaurants and Eateries
+10,Café,Coffee and Cafes
+11,Italian Restaurant,Restaurants and Eateries
+12,IT Services,Business and Industry
+13,Caribbean Restaurant,Restaurants and Eateries
+14,Sushi Restaurant,Restaurants and Eateries
+15,Modern European Restaurant,Restaurants and Eateries
+16,Theme Restaurant,Restaurants and Eateries
+17,Memorial Site,Outdoor Venues
+18,Indian Restaurant,Restaurants and Eateries
+19,Gym,Health and Fitness
+20,Other Great Outdoors,Outdoor Venues
+21,Greek Restaurant,Restaurants and Eateries
+22,Concert Hall,Other
+23,Restaurant,Restaurants and Eateries
+24,Park,Outdoor Venues
+25,Library,Public Amenities
+26,Theme Park,Entertainment
+27,Southern / Soul Food Restaurant,Restaurants and Eateries
+28,Historic Site,Outdoor Venues
+29,Lounge,Hospitality
+30,Adult Boutique,Shopping
+31,Museum,Public Amenities
+32,Monument / Landmark,Outdoor Venues
+33,Middle Eastern Restaurant,Restaurants and Eateries
+34,Japanese Restaurant,Restaurants and Eateries
+35,Karaoke Bar,"Bars, Pubs and Clubs"
+36,Tapas Restaurant,Restaurants and Eateries
+37,Sri Lankan Restaurant,Restaurants and Eateries
+38,Bookstore,Shopping
+39,Skating Rink,Health and Fitness
+40,Cupcake Shop,Food and Groceries
+41,Yoga Studio,Health and Fitness
+42,Curling Ice,Health and Fitness
+43,Department Store,Shopping
+44,Grocery Store,Food and Groceries
+45,Salad Place,Restaurants and Eateries
+46,Gastropub,Restaurants and Eateries
+47,French Restaurant,Restaurants and Eateries
+48,Pub,"Bars, Pubs and Clubs"
+49,Furniture / Home Store,Shopping
+50,Dumpling Restaurant,Restaurants and Eateries
+51,Seafood Restaurant,Restaurants and Eateries
+52,Hawaiian Restaurant,Restaurants and Eateries
+53,Newsstand,Shopping
+54,Dessert Shop,Food and Groceries
+55,Smoothie Shop,Food and Groceries
+56,Clothing Store,Shopping
+57,Health Food Store,Food and Groceries
+58,Thai Restaurant,Restaurants and Eateries
+59,Gym / Fitness Center,Health and Fitness
+60,Sandwich Place,Restaurants and Eateries
+61,Ice Cream Shop,Food and Groceries
+62,Farmers Market,Food and Groceries
+63,Fast Food Restaurant,Restaurants and Eateries
+64,Pool,Health and Fitness
+65,Bank,Business and Industry
+66,Gas Station,Business and Industry
+67,Diner,Restaurants and Eateries
+68,Pizza Place,Restaurants and Eateries
+69,Shopping Mall,Shopping
+70,Food,Food and Groceries
+71,Chinese Restaurant,Restaurants and Eateries
+72,Electronics Store,Shopping
+73,Steakhouse,Restaurants and Eateries
+74,Sporting Goods Shop,Shopping
+75,Camera Store,Shopping
+76,Kids Store,Shopping
+77,Pet Store,Shopping
+78,Pharmacy,Medical and Pharmacy
+79,Sports Bar,"Bars, Pubs and Clubs"
+80,Arepa Restaurant,Restaurants and Eateries
+81,Soccer Field,Health and Fitness
+82,Burrito Place,Restaurants and Eateries
+83,Sports Club,Health and Fitness
+84,Beach,Outdoor Venues
+85,Burger Joint,Restaurants and Eateries
+86,Breakfast Spot,Restaurants and Eateries
+87,Fried Chicken Joint,Restaurants and Eateries
+88,Boat or Ferry,Other
+89,Hockey Arena,Health and Fitness
+90,Spa,Health and Fitness
+91,Discount Store,Shopping
+92,Bus Station,Public Amenities
+93,Laundry Service,Business and Industry
+94,Construction & Landscaping,Business and Industry
+95,Turkish Restaurant,Restaurants and Eateries
+96,Mexican Restaurant,Restaurants and Eateries
+97,Rental Car Location,Business and Industry
+98,Motorsports Shop,Shopping
+99,Asian Restaurant,Restaurants and Eateries
+100,Thrift / Vintage Store,Shopping
+101,Portuguese Restaurant,Restaurants and Eateries
+102,Record Shop,Shopping
+103,Supermarket,Food and Groceries
+104,Health & Beauty Service,Health and Fitness
+105,Cosmetics Shop,Shopping
+106,Hobby Shop,Shopping
+107,Farm,Other
+108,Deli / Bodega,Food and Groceries
+109,Baseball Field,Health and Fitness
+110,Auto Dealership,Business and Industry
+111,Entertainment Service,Entertainment
+112,Irish Pub,"Bars, Pubs and Clubs"
+113,Movie Theater,Entertainment
+114,Convenience Store,Food and Groceries
+115,Vietnamese Restaurant,Restaurants and Eateries
+116,Buffet,Restaurants and Eateries
+117,American Restaurant,Restaurants and Eateries
+118,Warehouse Store,Shopping
+119,Hardware Store,Shopping
+120,Mini Golf,Entertainment
+121,Arts & Crafts Store,Shopping
+122,Gym Pool,Health and Fitness
+123,Trail,Outdoor Venues
+124,Optical Shop,Shopping
+125,Luggage Store,Shopping
+126,Lingerie Store,Shopping
+127,Harbor / Marina,Other
+128,Malay Restaurant,Restaurants and Eateries
+129,Toy / Game Store,Shopping
+130,Liquor Store,"Alcohol, Marijuana and Tobacco"
+131,Video Game Store,Shopping
+132,Paper / Office Supplies Store,Shopping
+133,Frame Store,Shopping
+134,Beer Store,"Alcohol, Marijuana and Tobacco"
+135,Fish & Chips Shop,Restaurants and Eateries
+136,Gourmet Shop,Restaurants and Eateries
+137,Poutine Place,Restaurants and Eateries
+138,Bowling Alley,Entertainment
+139,Dog Run,Outdoor Venues
+140,Paintball Field,Entertainment
+141,Brewery,"Bars, Pubs and Clubs"
+142,Scenic Lookout,Outdoor Venues
+143,Playground,Outdoor Venues
+144,Wings Joint,Restaurants and Eateries
+145,Video Store,Shopping
+146,Korean Restaurant,Restaurants and Eateries
+147,Indie Movie Theater,Entertainment
+148,Business Service,Business and Industry
+149,Art Gallery,Public Amenities
+150,Market,Shopping
+151,Taco Place,Restaurants and Eateries
+152,BBQ Joint,Restaurants and Eateries
+153,Hostel,Hospitality
+154,New American Restaurant,Restaurants and Eateries
+155,German Restaurant,Restaurants and Eateries
+156,Church,Other
+157,Hotel Bar,"Bars, Pubs and Clubs"
+158,South Indian Restaurant,Restaurants and Eateries
+159,Candy Store,Food and Groceries
+160,Tea Room,Coffee and Cafes
+161,Jazz Club,"Bars, Pubs and Clubs"
+162,Convention Center,Other
+163,Ethiopian Restaurant,Restaurants and Eateries
+164,Nightclub,"Bars, Pubs and Clubs"
+165,Cocktail Bar,"Bars, Pubs and Clubs"
+166,Art Museum,Public Amenities
+167,History Museum,Public Amenities
+168,Gift Shop,Shopping
+169,Theater,Entertainment
+170,Vegetarian / Vegan Restaurant,Restaurants and Eateries
+171,Other Nightlife,"Bars, Pubs and Clubs"
+172,Beer Bar,"Bars, Pubs and Clubs"
+173,Fish Market,Food and Groceries
+174,Bubble Tea Shop,Restaurants and Eateries
+175,Ramen Restaurant,Restaurants and Eateries
+176,Butcher,Food and Groceries
+177,Wine Bar,"Bars, Pubs and Clubs"
+178,Indie Theater,Entertainment
+179,Bagel Shop,Food and Groceries
+180,Football Stadium,Other
+181,Event Space,Other
+182,English Restaurant,Restaurants and Eateries
+183,Cheese Shop,Food and Groceries
+184,Arcade,Entertainment
+185,Pie Shop,Food and Groceries
+186,Flea Market,Shopping
+187,Music Store,Shopping
+188,Airport,Other
+189,Airport Lounge,Other
+190,Airport Service,Other
+191,Airport Terminal,Other
+192,Taxi Stand,Business and Industry
+193,Plane,Other
+194,Parking,Other
+195,Golf Course,Entertainment
+196,Smoke Shop,"Alcohol, Marijuana and Tobacco"
+197,Home Service,Business and Industry
+198,Spanish Restaurant,Restaurants and Eateries
+199,Donut Shop,Food and Groceries
+200,Dance Studio,Health and Fitness
+201,Knitting Store,Shopping
+202,Dive Bar,"Bars, Pubs and Clubs"
+203,Gluten-free Restaurant,Restaurants and Eateries
+204,Massage Studio,Health and Fitness
+205,Women's Store,Shopping
+206,Outdoor Supply Store,Shopping
+207,Office,Business and Industry
